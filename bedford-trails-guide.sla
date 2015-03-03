@@ -184,18 +184,18 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="All Bedford conservation areas are open to the general public for passive recreation use such as hiking, cross-country skiing, snowshoeing, nature study, and picnics. The trails are maintained by the Commission, the Trails Committee and the Bedford Conservation Land Stewards."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="In addition to the 800 acres of conservation land, restrictions protecting the natural resources of private lands total 308 acres. With the 672 acres within the Great Meadows National Wildlife Refuge in Bedford, the total protected or conservation-managed land in Bedford is 1,870 acres, approximately 21 percent of the town's area."/>
+            <ITEXT CH="In addition to the 800 acres of conservation land, restrictions protecting the natural resources of private lands total 308 acres. With the 672 acres within the Great Meadows National Wildlife Refuge in Bedford, the total protected or conservation-managed land in Bedford is 1,780 acres, approximately 21 percent of the town's area."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Directions to the Trails"/>
             <para PARENT="Heading1"/>
-            <ITEXT CH="The directions provided in this guide begin at Mudge Way in Bedford's town center. To follow the directions, leave Mudge Way and enter The Great Road (Route 4/225), passing by the side of the Bedford police station. Please make sure that the routes provided here are safe to travel as you head to the trails!"/>
+            <ITEXT CH="The directions provided in this guide begin at Mudge Way in Bedford's town center. To follow the directions, leave Mudge Way and enter The Great Road (Route 4/225/62), passing by the side of the Bedford police station."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="104.5008" YPOS="2056.5144" WIDTH="346.5" HEIGHT="450" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 346.5 0 346.5 0 346.5 0 346.5 0 346.5 450 346.5 450 346.5 450 346.5 450 0 450 0 450 0 450 0 450 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 346.5 0 346.5 0 346.5 0 346.5 0 346.5 450 346.5 450 346.5 450 346.5 450 0 450 0 450 0 450 0 450 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="Altmann Conservation Area and Pickman Meadow"/>
             <para PARENT="Heading1"/>
-            <ITEXT CH="Near Two Brothers' Rocks, where Governor Winthrop and his deputy Thomas Dudley divided Winthrop's property in 1638, the Altmann conservation area is associated with the early development of colonial Massachusetts. The parcels of land that make up the area were purchased by the town in 2002 through a grant from the Commonwealth of Massachusetts and Bedford’s Community Preservation Fund. A conservation restriction is held by the state for the the preservation of natural resources in perpetuity."/>
+            <ITEXT CH="Near Two Brothers' Rocks, where Governor Winthrop and his deputy Thomas Dudley divided Winthrop's property in 1638, the Altmann conservation area is associated with the early development of colonial Massachusetts. The parcels of land that make up the area were purchased by the town in 2002 through a grant from the Commonwealth of Massachusetts and Bedford’s Community Preservation Fund. A conservation restriction is held by the state for the preservation of natural resources in perpetuity."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="The 15.9 acre area abuts the Huckins Farm conservation restriction, Great Meadows National Wildlife Refuge, and the town-owned Pickman Meadow. Its blue trail joins the Huckins Farm public access trail easement to form an integral part of the west Bedford trail system. The orange loop trail connects with Great Meadows trails to the Concord River and Two Brothers’ Rocks."/>
             <para PARENT="Default Paragraph Style"/>
@@ -205,7 +205,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Directions"/>
             <para PARENT="Heading2"/>
-            <ITEXT CH="From Mudge Way, turn left onto North Road for 1.3 miles. Turn left onto Dudley Road for 0.9 miles. Access the area at the kiosk on the left by the Huckins Farm fire road gate. Park on the side of the road. Follow the blue trail along the fire road to the property."/>
+            <ITEXT CH="From Mudge Way, turn left onto Route 4/225. Continue on North Road (Route 4) for 1.3 miles. Turn left onto Dudley Road for 0.9 miles. Enter at the kiosk on the left by the fire road gate. Park on the side of the road. Follow the blue trail along the fire road."/>
             <para PARENT="Default Paragraph Style"/>
             <PageItemAttributes>
                 <ItemAttribute Name="TOC" Type="" Value="Altmann Conservation Area and Pickman Meadow" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
@@ -214,13 +214,13 @@
         <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="104.5008" YPOS="2564.5176" WIDTH="346.5" HEIGHT="450" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 346.5 0 346.5 0 346.5 0 346.5 0 346.5 450 346.5 450 346.5 450 346.5 450 0 450 0 450 0 450 0 450 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 346.5 0 346.5 0 346.5 0 346.5 0 346.5 450 346.5 450 346.5 450 346.5 450 0 450 0 450 0 450 0 450 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="Buehler Ponds"/>
             <para PARENT="Heading1"/>
-            <ITEXT CH="Long enjoyed for its scenic terrain, former owners created two man-made ponds on the Buehler Ponds properties. Between 1978 and 2008 three separate parcels were acquired to make up the current configuration of the conservation area. In 1978 six acres were purchased with State Help funding and in 1987 an additional three acres were acquired as a gift. The last parcel acquired was the Lane Farm Conservation Area which allowed access to the western shoreline of Buehler Pond."/>
+            <ITEXT CH="Long enjoyed for its scenic terrain, former owners created two ponds on the Buehler properties. Between 1978 and 2008 three separate parcels were acquired to make up the current configuration of the conservation area. In 1978 six acres were purchased with State Help funding and in 1987 an additional three acres were acquired as a gift. The last parcel acquired was the Lane Farm Conservation Area which allowed access to the western shoreline of Buehler Pond."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Follow the orange trails south of the ponds to serene viewing areas and diverse species of plants and trees. Although dominated by tall maple and pine trees, cedars are also prevalent throughout these trails. Low lying blueberry bushes and gneiss bedrock outcrops marked by glacial sculpting can be viewed from the trails along with grape vines, ferns, and swamp cabbage. Follow the blue trail around the shores of the pond to observe fish, turtles, and frogs in their natural habitats. The rolling terrain throughout the network of trails adds to the uniqueness and beauty of this property."/>
+            <ITEXT CH="Follow the orange trails south of the ponds to serene viewing areas and diverse species of plants and trees. Although dominated by tall maple and pine trees, cedars are also prevalent throughout these trails. Low lying blueberry bushes and gneiss bedrock outcrops marked by glacial sculpting can be viewed from the trails along with grape vines and ferns. Follow the blue trail around the shores of the pond to observe fish, turtles, and frogs in their natural habitats. The rolling terrain throughout the network of trails adds to the uniqueness and beauty of this property."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Directions"/>
             <para PARENT="Heading2"/>
-            <ITEXT CH="From Mudge Way, turn left onto Route 4/225 for 1.5 miles. Turn right onto Sweetwater Avenue for 0.4 miles. Parking is available at the Fawn Lake parking area on the right. Head north on the narrow gauge rail trail from the Fawn Lake parking area. Several  Buehler access trails leave the left side of the railroad bed. Find another access trail behind the Lt. Job Lane Elementary School, which is located on Sweetwater Avenue."/>
+            <ITEXT CH="From Mudge Way, turn left onto Route 4/225. Continue on North Road (Route 4) for 1.5 miles. Turn right onto Sweetwater Avenue for 0.4 miles. Parking is available at the Fawn Lake parking area on the right. Head north on the narrow gauge rail trail from the Fawn Lake parking area. Several Buehler access trails leave the left side of the railroad bed. A yellow trail leads to Lt. Job Lane Elementary School, which is located on Sweetwater Avenue."/>
             <trail PARENT="Default Paragraph Style"/>
             <PageItemAttributes>
                 <ItemAttribute Name="TOC" Type="" Value="Buehler Ponds" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
@@ -241,7 +241,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Directions"/>
             <para PARENT="Heading2"/>
-            <ITEXT CH="From Mudge Way, turn left onto Route 4/225 for 0.2 miles. Turn left onto Route 225 for  0.8 miles. Park near Winterberry Way on the left, across from the Carlson Conservation Area. Access to the Carlson trail is also available from Old Causeway Road, off of Route 225 approximately 0.3 miles past Winterberry Way on the right. Reach an alternate trail near the end of Harvard Drive, off of Route 4."/>
+            <ITEXT CH="From Mudge Way, turn left onto Route 4/225 for 0.2 miles. Turn left onto Carlisle Road (Route 225) for  0.8 miles. Park near Winterberry Way on the left, across from the Carlson Conservation Area. Access to the Carlson trail is also available from Old Causeway Road, off of Route 225 approximately 0.3 miles past Winterberry Way on the right. Reach an alternate trail near the end of Harvard Drive, off of Route 4."/>
             <trail PARENT="Default Paragraph Style"/>
             <PageItemAttributes>
                 <ItemAttribute Name="TOC" Type="" Value="Carlisle Road" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
@@ -283,7 +283,7 @@
             <para/>
             <ITEXT CH="Directions"/>
             <para PARENT="Heading2"/>
-            <ITEXT CH="From Mudge Way, turn left onto Route 4/225 and continue onto Route 4 for 1.5 miles. Turn right onto Sweetwater Avenue for 0.4 miles. Park near the rail trail on the right."/>
+            <ITEXT CH="From Mudge Way, turn left onto Route 4/225 and continue onto North Road (Route 4) for 1.5 miles. Turn right onto Sweetwater Avenue for 0.4 miles. Park near the rail trail on the right."/>
             <trail PARENT="Default Paragraph Style"/>
             <PageItemAttributes>
                 <ItemAttribute Name="TOC" Type="" Value="Fawn Lake" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
@@ -346,7 +346,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Directions"/>
             <para PARENT="Heading2"/>
-            <ITEXT CH="From Mudge Way, turn left onto Route 4/225 and continue onto Route 4 for 2.1 miles. The parking area for the trail head is on the left immediately after Route 4 bears left to become Chelmsford Road. A kiosk and picnic table are in the conservation area near the parking area. Follow the blue trail from the parking area along the gravel path to access the property."/>
+            <ITEXT CH="From Mudge Way, turn left onto Route 4/225 and continue onto North Road (Route 4) for 2.1 miles. The parking area for the trail head is on the left immediately after Route 4 bears left to become Chelmsford Road. A kiosk and picnic table are in the conservation area near the parking area. Follow the blue trail from the parking area along the gravel path to access the property."/>
             <trail PARENT="Default Paragraph Style"/>
             <PageItemAttributes>
                 <ItemAttribute Name="TOC" Type="" Value="Minnie Reid Conservation Area" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
@@ -365,7 +365,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Directions"/>
             <para PARENT="Heading2"/>
-            <ITEXT CH="From Mudge Way, turn right onto route 4/225 for 0.8 miles. Turn left onto Route 62 (Brooksbie Road) for 1 mile. Turn left onto Old Billerica Road for 1.9 miles. Pass Noreen Drive and turn right at the gravel driveway lined by two stone walls. The driveway is across the street from 464 Old Billerica Road. Follow the driveway past a house on the left and continue to a gravel parking area on the left by the conservation area sign. The trail entrance is at a kiosk along the cart path."/>
+            <ITEXT CH="From Mudge Way, turn right onto route 4/225 for 0.8 miles. Turn left onto Brooksbie Road (Route 62) for 1 mile. Turn left onto Old Billerica Road for 1.9 miles. Pass Noreen Drive and turn right at the gravel driveway lined by two stone walls. The driveway is across the street from 464 Old Billerica Road. Follow the driveway past a house on the left and continue to a gravel parking area on the left by the conservation area sign. The trail entrance is at a kiosk along the cart path."/>
             <trail PARENT="Default Paragraph Style"/>
             <PageItemAttributes>
                 <ItemAttribute Name="TOC" Type="" Value="O'Connor Conservation Area" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
@@ -409,7 +409,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Directions"/>
             <para PARENT="Heading2"/>
-            <ITEXT CH="From Mudge Way, turn right onto Route 4/225 for 0.8 miles. Turn left onto Route 62 (Brooksbie Road) for 2.3 miles. Turn left onto Middlesex Turnpike for 1.5 miles. The trailhead is on the left immediately after crossing the Shawsheen River and before Oak Park Drive."/>
+            <ITEXT CH="From Mudge Way, turn right onto Route 4/225 for 0.8 miles. Turn left onto Brooksbie Road (Route 62) for 2.3 miles. Turn left onto Middlesex Turnpike for 1.5 miles. The trailhead is on the left immediately after crossing the Shawsheen River and before Oak Park Drive."/>
             <trail PARENT="Default Paragraph Style"/>
             <PageItemAttributes>
                 <ItemAttribute Name="TOC" Type="" Value="Shawsheen River Conservation Area" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
@@ -512,7 +512,7 @@
             <para PARENT="VersoBookTitle"/>
             <ITEXT CH="Bedford, Massachusetts"/>
             <para PARENT="VersoBookTitle"/>
-            <ITEXT CH="Thanks to the many people who contributed to the production of this book, the Bedford Conservation Commission, the Bedford Trails Committee, and the Bedford Public Works Department."/>
+            <ITEXT CH="Thanks to the many people who contributed to the production of this book, the Bedford Conservation Commission, the Bedford Trails Committee, and the Bedford Department of Public Works."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -611,7 +611,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="104.5008" YPOS="636.0048" WIDTH="346.5" HEIGHT="18" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 346.5 0 346.5 0 346.5 0 346.5 0 346.5 18 346.5 18 346.5 18 346.5 18 0 18 0 18 0 18 0 18 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 346.5 0 346.5 0 346.5 0 346.5 0 346.5 18 346.5 18 346.5 18 346.5 18 0 18 0 18 0 18 0 18 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Contents"/>
+            <ITEXT CH="Index of Trail Maps"/>
             <trail PARENT="Heading1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -630,9 +630,9 @@
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="104.5008" YPOS="1040.508" WIDTH="346.5" HEIGHT="459" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 346.5 0 346.5 0 346.5 0 346.5 0 346.5 459 346.5 459 346.5 459 346.5 459 0 459 0 459 0 459 0 459 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 346.5 0 346.5 0 346.5 0 346.5 0 346.5 459 346.5 459 346.5 459 346.5 459 0 459 0 459 0 459 0 459 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="Trail Marking"/>
             <para PARENT="Heading1"/>
-            <ITEXT CH="Trails routes are marked by colored disks with raised arrows that are installed along the pathway. These trail markers are placed where they will be most visible to hikers. The arrow points in the direction of the trail where it turns Three different colors designate trail types."/>
+            <ITEXT CH="Trails routes are marked by colored disks with raised arrows that are installed along the pathway. These trail markers are placed where they will be most visible to hikers. The arrow points in the direction of the trail where it turns. Three different colors designate trail types."/>
             <para/>
-            <ITEXT CH="Blue trail markers designate the main route through an area. A blue trail is often the most interesting path. For example, it may pass through varied terrain, by historic or unusual sites, or have a special viewpoint."/>
+            <ITEXT CH="Blue trail markers designate the main route through an area. Blue trails may lead through varied terrain from one area to another, or form a perimeter loop around an area."/>
             <para/>
             <ITEXT CH="Orange trail markers designate a secondary trail. An orange trail always connects to the main trail either as a loop or to and from a specific destination such as a viewpoint, picnic spot, historic site, or access to a different trail area."/>
             <para/>
@@ -642,6 +642,12 @@
             <para/>
             <ITEXT CH="Sign posts with inscribed directions mark some important trail intersections and trailheads. In some areas, kiosks display a trail map and may provide map copies."/>
             <para/>
+            <ITEXT CH="Download Trail Maps"/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="Download printable PDF trail maps from the Town of Bedford web site."/>
+            <para/>
+            <ITEXT CH="http://www.bedfordma.gov/department-of-public-works/pages/bedford-trail-maps"/>
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="343.0008" YPOS="1275.508" WIDTH="108" HEIGHT="108" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.18" LOCALSCY="0.18" LOCALX="25" LOCALY="25" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="public-trail-logo.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 108 0 108 0 108 0 108 0 108 108 108 108 108 108 108 108 0 108 0 108 0 108 0 108 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 108 0 108 0 108 0 108 0 108 108 108 108 108 108 108 108 0 108 0 108 0 108 0 108 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -659,16 +665,12 @@
             <para/>
             <ITEXT CH="The Conservation Commission consists of members appointed by the Board of Selectmen to oversee the protection of wetlands, waterbodies, waterways, floodplains and riverfront areas, and to acquire and maintain open space land for the protection of natural resources and for the benefit and enjoyment of the citizens of Bedford. Submit photographs and reports of interesting or unusual observations to the Conservation Office at (781) 275-6211. See the commission web site at http://www.bedfordma.gov/conservation-commission."/>
             <para/>
-            <ITEXT CH="The Bedford Trails Committee, a subcommittee of the Bedford Conservation Commission, is made up of interested residents. The committee plans and implements maintenance and improvements to the public access trails. Improvements include placing bog bridges in wet areas of the trails, installing trail markers and signs, clearing brush and obstructions, mapping trails, and working with the Conservation Commission to create new trail connections. Members of the Trails Committee hold regular public trail walks in areas around town. See the committee web site at http://www.bedfordma.gov/trails-committee."/>
+            <ITEXT CH="The Bedford Trails Committee are also appointed by the Board of Selectmen and plan and implements maintenance and improvements to the public access trails. Improvements include placing bog bridges in wet areas of the trails, installing trail markers and signs, clearing brush and obstructions, mapping trails, and working with the Conservation Commission to create new trail connections. Members of the Trails Committee hold regular public trail walks in areas around town. See the committee web site at http://www.bedfordma.gov/trails-committee."/>
+            <para/>
+            <ITEXT CH="The Land Acquisition Committee plans and carries out land purchases, gifts, and other  projects for the preservation of natural resources, open space, and municipal use. The Committee researches open lands, contacts and initiates discussion with property owners, and recommends appraisals, acquisitions, and other land protection options to the Selectmen and Conservation Commission. See http://www.bedfordma.gov/land-acquisition-committee."/>
             <para/>
             <ITEXT CH="The Bedford Conservation Land Stewards are a group of residents who monitor and maintain conservation and other trail areas. The land stewards are not officially affiliated with the Conservation Commission or the Trails Committee. In addition to their own volunteer upkeep of trails and land, the land stewards observe conditions in the areas they are interested in and report needed improvements or other important information. Many Trails Committee projects are the result of stewards' reports. See the stewards' web site at http://bedfordlandstewards.blogspot.com."/>
             <para/>
-            <ITEXT CH="Download Trail Maps"/>
-            <para PARENT="Heading1"/>
-            <ITEXT CH="Download printable PDF trail maps from the Town of Bedford web site."/>
-            <para/>
-            <ITEXT CH="http://www.bedfordma.gov/department-of-public-works/pages/bedford-trail-maps"/>
-            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="104.5008" YPOS="19836.6264" WIDTH="346.5" HEIGHT="459" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0.1528" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 346.5 0 346.5 0 346.5 0 346.5 0 346.5 459 346.5 459 346.5 459 346.5 459 0 459 0 459 0 459 0 459 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 346.5 0 346.5 0 346.5 0 346.5 0 346.5 459 346.5 459 346.5 459 346.5 459 0 459 0 459 0 459 0 459 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="46" BACKITEM="40">
@@ -740,9 +742,14 @@
         <PAGEOBJECT OwnPage="37" PTYPE="4" XPOS="104.5008" YPOS="9676.5624" WIDTH="346.5" HEIGHT="450" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 346.5 0 346.5 0 346.5 0 346.5 0 346.5 450 346.5 450 346.5 450 346.5 450 0 450 0 450 0 450 0 450 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 346.5 0 346.5 0 346.5 0 346.5 0 346.5 450 346.5 450 346.5 450 346.5 450 0 450 0 450 0 450 0 450 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="Town Campus"/>
             <para PARENT="Heading1"/>
+            <ITEXT CH="Located in the center of the Town's schools and public buildings, the town campus trails are popular for pedestrian commuting. Between Elm Street and Railroad Avenue, the wooded area includes clearings, a stream, and a pond."/>
+            <para/>
+            <ITEXT CH="The Bay Circut trail passes through the area along Railroad Avenue. The Minuteman Bikeway and the Minuteman Bikeway Extension trail are also nearby to the south on Railroad Avenue."/>
             <para/>
             <ITEXT CH="Directions"/>
             <para PARENT="Heading2"/>
+            <ITEXT CH="From Mudge Way, turn right onto Route 4/225 for 0.25 miles. Turn right on Elm Street for 0.25 miles. Park at the end of the street and enter the area."/>
+            <trail PARENT="Default Paragraph Style"/>
             <PageItemAttributes>
                 <ItemAttribute Name="TOC" Type="" Value="Town Campus" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
