@@ -30,11 +30,12 @@
         <STYLE NAME="BookTitle" PARENT="Default Paragraph Style" ALIGN="0" VOR="0" NACH="8" FONT="Abyssinica SIL Regular" FONTSIZE="32" FCOLOR="BedfordLogoBlue"/>
         <STYLE NAME="VersoBookTitle" PARENT="Default Paragraph Style" ALIGN="1" NACH="6" FONT="Abyssinica SIL Regular" FONTSIZE="10" FCOLOR="BedfordLogoBlue"/>
         <STYLE NAME="BookSubTitle" PARENT="Default Paragraph Style" ALIGN="0" VOR="12" NACH="6" FONT="Abyssinica SIL Regular" FONTSIZE="24" FCOLOR="BedfordLogoBlue"/>
-        <STYLE NAME="None" LINESPMode="0" LINESP="15" KERN="0"/>
+        <STYLE NAME="None" LINESPMode="0" LINESP="15" FONT="Abyssinica SIL Regular" KERN="0"/>
         <STYLE NAME="TableOfContents" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="18" VOR="0" NACH="2" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Abyssinica SIL Regular" FONTSIZE="8">
             <Tabs Type="1" Pos="324" Fill=""/>
         </STYLE>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Abyssinica SIL Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Citation" FONT="Abyssinica SIL Regular" LANGUAGE="English"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="1" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="1" includePDFMarks="1" PSLevel="0" PDLanguage="0" markOffset="nan" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="0" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="150" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="9" BLeft="9" BRight="9" BBottom="9" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="3" openAction="">
@@ -723,6 +724,8 @@
             <ITEXT CH="Located in the center of the Town's schools and public buildings, the town campus trails are popular for pedestrian commuting. Between Elm Street and Railroad Avenue, the wooded area includes clearings, a stream, and a pond."/>
             <para/>
             <ITEXT CH="The Bay Circut trail passes through the area along Railroad Avenue. The Minuteman Bikeway and the Minuteman Bikeway Extension trail are also nearby to the south on Railroad Avenue."/>
+            <para/>
+            <ITEXT CH="In the early 1970's the Conservation Commission, under the leadership of Murray York, lead a campaign to establish outdoor spaces for nature education, nature's classrooms, at the four elementary schools in use at the time. Cattail corner at the Davis School is a well-enjoyed part of science exploration today. Here at the town campus, the pond in the wooded wetland along the blue trail was dug as part of the nature's classroom for the nearby Center School, now the town center building at 12 Mudge Way. Elementary class workshops at the site were very popular. Pollywogs, frogs, and snakes served as short-term classroom pets and for close-up study. Mini courses, such as one named Life In and Under a Snow Bank rewarded students with natural discoveries as plants and animals changed during the transition from winter to spring."/>
             <para/>
             <ITEXT CH="Directions"/>
             <para PARENT="Heading2"/>
