@@ -1,6 +1,6 @@
 bedford-trails-guide*.pdf
-bedford-trails-guide-new_autosave_*
 bedford-trails-guide_autosave_*
+bedford-trails-guide-front-cover_autosave_*:wq
 *.autosave
 *.bak
 .DS_Store
