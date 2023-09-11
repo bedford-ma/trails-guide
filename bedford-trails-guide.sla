@@ -62,6 +62,9 @@
         <STYLE NAME="PageNumberRecto" PARENT="Default Paragraph Style" ALIGN="1"/>
         <STYLE NAME="PageNumberVerso" PARENT="Default Paragraph Style" ALIGN="1"/>
         <STYLE NAME="HeadingTopLevel" PARENT="Default Paragraph Style" NACH="12" KeepWithNext="1" KeepTogether="1" FONT="Verdana Regular" FONTSIZE="12" FEATURES="" FCOLOR="BedfordLogoBlue" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
+        <STYLE NAME="TocEntry" PARENT="Default Paragraph Style" LINESP="13" VOR="2" NACH="2">
+            <Tabs Type="0" Pos="324" Fill=""/>
+        </STYLE>
         <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
             <TableBorderLeft>
                 <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
@@ -101,8 +104,12 @@
             <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
             <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
         </PDF>
-        <DocItemAttributes/>
-        <TablesOfContents/>
+        <DocItemAttributes>
+            <ItemAttribute Name="TOC" Type="none" Value="" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+        </DocItemAttributes>
+        <TablesOfContents>
+            <TableOfContents Name="Table of Contents 1" ItemAttributeName="TOC" FrameName="TableOfContentsTextFrame" ListNonPrinting="0" Style="TocEntry" NumberPlacement="End"/>
+        </TablesOfContents>
         <Marks>
             <Mark label="altmannDescription" type="0"/>
         </Marks>
@@ -187,14 +194,14 @@
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="13940.0784" PAGEWIDTH="432" PAGEHEIGHT="540" BORDERLEFT="54" BORDERRIGHT="27" BORDERTOP="27" BORDERBOTTOM="27" NUM="47" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="532.0008" PAGEYPOS="13940.0784" PAGEWIDTH="432" PAGEHEIGHT="540" BORDERLEFT="54" BORDERRIGHT="27" BORDERTOP="27" BORDERBOTTOM="27" NUM="48" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="14520.0816" PAGEWIDTH="432" PAGEHEIGHT="540" BORDERLEFT="54" BORDERRIGHT="27" BORDERTOP="27" BORDERBOTTOM="27" NUM="49" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="320.5008" YPOS="536.2416" OwnPage="1" ItemID="1303548663" PTYPE="4" WIDTH="18" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" copath="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" OnMasterPage="Normal Right" gXpos="472798544.5008" gYpos="6965757767.79834" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="320.5008" YPOS="536.2416" OwnPage="1" ItemID="1303548663" PTYPE="4" WIDTH="18" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" copath="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" OnMasterPage="Normal Right" gXpos="510271880.5008" gYpos="7571701610.91877" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail PARENT="PageNumberRecto"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="293.5008" YPOS="536.2416" OwnPage="0" ItemID="1302640887" PTYPE="4" WIDTH="18" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" copath="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" OnMasterPage="Normal Left" gXpos="5992133.5008" gYpos="7528193250.87861" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="293.5008" YPOS="536.2416" OwnPage="0" ItemID="1302640887" PTYPE="4" WIDTH="18" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" copath="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" OnMasterPage="Normal Left" gXpos="5992133.5008" gYpos="8182612601.44955" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -265,6 +272,9 @@
                 <ITEXT CH="Please note that the trail maps in this guide use different distance scales and are oriented differently in relation to North. The maps are oriented to show the most detail, and the top of the map is not always North. Check the compass rose on each map to see its orientation. For relative scale and orientation within Bedford, see the Trail Guide Index Map in this guide."/>
                 <para/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Open space lands in Bedford" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="127.0008" YPOS="1207.008" OwnPage="3" ItemID="1294999287" PTYPE="4" WIDTH="351" HEIGHT="486" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 486 L0 486 L0 0 Z" copath="M0 0 L351 0 L351 486 L0 486 L0 0 Z" gXpos="-232.9992" gYpos="1207.008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1292022007" BACKITEM="1301291767"/>
         <PAGEOBJECT XPOS="586.0008" YPOS="1207.008" OwnPage="4" ItemID="1292022007" PTYPE="4" WIDTH="351" HEIGHT="486" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 486 L0 486 L0 0 Z" copath="M0 0 L351 0 L351 486 L0 486 L0 0 Z" gXpos="586.0008" gYpos="771.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1296421111" BACKITEM="1294999287"/>
@@ -279,6 +289,9 @@
                 <ITEXT CH="Bedford Circuit Trails, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="" Type="none" Value="Bedford Circuit Trails" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="586.0008" YPOS="8770.4496" OwnPage="30" ItemID="1296635639" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/buehler.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="586.0008" gYpos="8190.4464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="587.4408" YPOS="8747.0496" OwnPage="30" ItemID="1301395191" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-16.5599999999999" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -287,6 +300,9 @@
                 <ITEXT CH="Buehler Ponds and Governor Winthrop Conservation Areas, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Buehler Ponds and Governor Winthrop Conservation Areas" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="127.0008" YPOS="9350.4528" OwnPage="31" ItemID="1303010039" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/carlisle.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="559.0008" gYpos="8190.4464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.4408" YPOS="9327.0528" OwnPage="31" ItemID="1325701879" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-43.56" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -295,6 +311,9 @@
                 <ITEXT CH="Carlisle Road Conservation Areas, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Carlisle Road Conservation Areas" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="127.0008" YPOS="9930.456" OwnPage="33" ItemID="1325780215" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/clark-little-meadow.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="127.0008" gYpos="8770.4496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.4408" YPOS="9907.056" OwnPage="33" ItemID="1317027575" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-475.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -303,6 +322,9 @@
                 <ITEXT CH="Clark and Little Meadow Conservation Areas, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Clark and Little Meadow Conservation Areas" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="586.0008" YPOS="9930.456" OwnPage="34" ItemID="1317232375" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/massport.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="1018.0008" gYpos="8190.4464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="587.4408" YPOS="9907.056" OwnPage="34" ItemID="1301437175" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="415.44" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -311,14 +333,20 @@
                 <ITEXT CH="Concord Road Town Lands and Massport Area, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Concord Road Town Lands and Massport Area" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="127.0008" YPOS="10510.4592" OwnPage="35" ItemID="1301431543" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/elm-brook.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="127.0008" gYpos="8770.4496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="128.4408" YPOS="10487.0592" OwnPage="35" ItemID="1301384439" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-475.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="128.4408" YPOS="10487.0592" OwnPage="35" ItemID="1301384439" PTYPE="4" WIDTH="349.56" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L349.56 0 L349.56 18 L0 18 L0 0 Z" copath="M0 0 L349.56 0 L349.56 18 L0 18 L0 0 Z" gXpos="-475.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Elm Brook Conservation Area, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Elm Brook Conservation Area" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="586.0008" YPOS="10510.4592" OwnPage="36" ItemID="1301378807" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/fawn-lake.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="1018.0008" gYpos="8190.4464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="587.4408" YPOS="10487.0592" OwnPage="36" ItemID="1301468919" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="415.44" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -327,6 +355,9 @@
                 <ITEXT CH="Fawn Lake Conservation Area, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Fawn Lake Conservation Area" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="127.0008" YPOS="11090.4624" OwnPage="37" ItemID="1301463287" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.070935960591133" LOCALSCY="0.070935960591133" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/hartwell.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="127.0008" gYpos="8770.4496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.4408" YPOS="11067.0624" OwnPage="37" ItemID="1296630007" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-475.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -335,14 +366,20 @@
                 <ITEXT CH="Hartwell Town Forest / George Jordan Conservation Area, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Hartwell Town Forest / George Jordan Conservation Area" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="586.0008" YPOS="11090.4624" OwnPage="38" ItemID="1296838391" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/huckins.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="1018.0008" gYpos="8190.4464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="587.4408" YPOS="11067.0624" OwnPage="38" ItemID="1296832759" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="415.44" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="587.4408" YPOS="11067.0624" OwnPage="38" ItemID="1296832759" PTYPE="4" WIDTH="348.370223622047" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L348.37 0 L348.37 18 L0 18 L0 0 Z" copath="M0 0 L348.37 0 L348.37 18 L0 18 L0 0 Z" gXpos="415.44" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Huckins Farm Conservation Restriction, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Huckins Farm Conservation Restriction" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="127.0008" YPOS="11670.4656" OwnPage="39" ItemID="1296869623" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/langone.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="127.0008" gYpos="8770.4496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.4408" YPOS="11647.0656" OwnPage="39" ItemID="1325667575" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-475.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -351,6 +388,9 @@
                 <ITEXT CH="Langone and Pine Grove Farm Conservation Areas, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Langone and Pine Grove Farm Conservation Areas" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="586.0008" YPOS="11670.4656" OwnPage="40" ItemID="1325790967" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/lindau.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="1018.0008" gYpos="8190.4464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="587.4408" YPOS="11647.0656" OwnPage="40" ItemID="1296863991" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="415.44" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -359,14 +399,20 @@
                 <ITEXT CH="Lindau Farmland at Pine Hill, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Lindau Farmland at Pine Hill" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="127.0008" YPOS="12250.4688" OwnPage="41" ItemID="1296858359" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/middlesex.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="127.0008" gYpos="8770.4496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="128.4408" YPOS="12227.0688" OwnPage="41" ItemID="1300860663" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-475.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="128.4408" YPOS="12227.0688" OwnPage="41" ItemID="1300860663" PTYPE="4" WIDTH="350.803294488189" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L350.803 0 L350.803 18 L0 18 L0 0 Z" copath="M0 0 L350.803 0 L350.803 18 L0 18 L0 0 Z" gXpos="-475.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Middlesex Community College, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Middlesex Community College" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="586.0008" YPOS="12250.4688" OwnPage="42" ItemID="1300632823" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/oconnor.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="1018.0008" gYpos="8190.4464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="587.4408" YPOS="12227.0688" OwnPage="42" ItemID="1300758263" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="415.44" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -375,14 +421,20 @@
                 <ITEXT CH="O'Connor Conservation Area, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="O'Connor Conservation Area" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="586.0008" YPOS="9350.4528" OwnPage="32" ItemID="1300752631" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/chelmsford.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="154.0008" gYpos="8770.4496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="587.4408" YPOS="9327.0528" OwnPage="32" ItemID="1303807223" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-448.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="587.4408" YPOS="9327.0528" OwnPage="32" ItemID="1303807223" PTYPE="4" WIDTH="350.63794015748" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L350.638 0 L350.638 18 L0 18 L0 0 Z" copath="M0 0 L350.638 0 L350.638 18 L0 18 L0 0 Z" gXpos="-448.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Chelmsford Road Conservation Areas, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Chelmsford Road Conservation Areas" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="127.0008" YPOS="12830.472" OwnPage="43" ItemID="1303801591" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.070935960591133" LOCALSCY="0.070935960591133" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/old-reservoir.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="127.0008" gYpos="8770.4496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.4408" YPOS="12807.072" OwnPage="43" ItemID="1325785335" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-475.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -391,6 +443,9 @@
                 <ITEXT CH="Old Reservoir / Valente Land, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Old Reservoir / Valente Land" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="586.0008" YPOS="12830.472" OwnPage="44" ItemID="1325772023" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/shawsheen-river.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="1018.0008" gYpos="8190.4464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="587.4408" YPOS="12807.072" OwnPage="44" ItemID="1303823607" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="415.44" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -399,6 +454,9 @@
                 <ITEXT CH="Shawsheen River Conservation Areas, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Shawsheen River Conservation Areas" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="127.0008" YPOS="13410.4752" OwnPage="45" ItemID="1303817975" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/springs-brook.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="127.0008" gYpos="8770.4496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.4408" YPOS="13387.0752" OwnPage="45" ItemID="1303812343" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-475.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -407,6 +465,9 @@
                 <ITEXT CH="Springs Brook Conservation Area and Springs Brook Park, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Springs Brook Conservation Area and Springs Brook Park" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="586.0008" YPOS="13410.4752" OwnPage="46" ItemID="1303845111" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/town-campus.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="1018.0008" gYpos="8190.4464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="587.4408" YPOS="13387.0752" OwnPage="46" ItemID="1325766391" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="415.44" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -415,6 +476,9 @@
                 <ITEXT CH="Town Campus, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Town Campus" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="127.0008" YPOS="13990.4784" OwnPage="47" ItemID="1325760759" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/wilderness-park.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="127.0008" gYpos="8770.4496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.4408" YPOS="13967.0784" OwnPage="47" ItemID="1303795959" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-475.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -423,6 +487,9 @@
                 <ITEXT CH="Wilderness Park Conservation Area, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Wilderness Park Conservation Area" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="586.0008" YPOS="13990.4784" OwnPage="48" ItemID="1303790327" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/wilson-mill.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="1018.0008" gYpos="8190.4464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="587.4408" YPOS="13967.0784" OwnPage="48" ItemID="1303784695" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="415.44" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -431,6 +498,9 @@
                 <ITEXT CH="Wilson Mill Park, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Wilson Mill Park" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="127.0008" YPOS="14570.4816" OwnPage="49" ItemID="1303855863" PTYPE="2" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0712871287128713" LOCALSCY="0.0712871287128713" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/york.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="127.0008" gYpos="8770.4496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="128.4408" YPOS="14547.0816" OwnPage="49" ItemID="1300745975" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-475.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -439,6 +509,9 @@
                 <ITEXT CH="York Conservation Area, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="York Conservation Area" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="947.4408" YPOS="8167.0464" OwnPage="28" ItemID="1303954167" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-448.56" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -446,6 +519,9 @@
                 <ITEXT CH="Altmann Conservation Area and Pickman Meadow, p. NN"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Altmann Conservation Area and Pickman Meadow" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="586.0008" YPOS="7007.04" OwnPage="24" ItemID="1303951095" PTYPE="2" WIDTH="711" HEIGHT="486" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.125217391304348" LOCALSCY="0.125217391304348" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/all-trails-map.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L711 0 L711 486 L0 486 L0 0 Z" copath="M0 0 L711 0 L711 486 L0 486 L0 0 Z" gXpos="586.0008" gYpos="7007.04" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="127.0008" YPOS="7587.0432" OwnPage="25" ItemID="1303921399" PTYPE="2" WIDTH="711" HEIGHT="486" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0708661417322835" LOCALSCY="0.0708661417322835" LOCALX="0" LOCALY="203.2" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="map-files/south-bedford.jpg" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L711 0 L711 486 L0 486 L0 0 Z" copath="M0 0 L711 0 L711 486 L0 486 L0 0 Z" gXpos="559.0008" gYpos="7007.04" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
@@ -636,7 +712,7 @@
                 <para PARENT="Default Paragraph Style"/>
                 <ITEXT CH="In the 21st century however the Wilson Mill site has enjoyed a renaissance. Incrementally acquired between 1984 and 2000 as the original mill property and the land adjacent to the mill pond, the Wilson Mill­­/Old Burlington Road District was added to the National Register of Historic Places in 2003. Also in 2003, the Wilson Mill Park Planning Committee was approved by the Select Board as an ad hoc committee, shepherded by the late selectman Gordon Feltman, to facilitate the planning of what was dedicated in 2013 as Wilson Mill Park."/>
                 <para PARENT="Default Paragraph Style"/>
-                <ITEXT CH="Today the park is accessed via a reconstructed dam/causeway which carries Old Burlington Road over the Vine Brook to a gravel parking area. To the east of the parking area is a slope that leads to a canoe launch, and to the west is a bench with views of the mill foundation remnants. Just beyond the boulders which bound the parking area is a kiosk marking the head of the main blue trail, which roughly follows the northern edge of the mill pond. The blue trail ends at the eastern edge of the park property, where the options are to turn back and return or proceed past the detention basin beyond the park boundary to the embankment of Route 3. Turning left at that point will follow a path parallel to Route 62 back to the parking area; turning right follows a trail parallel to Route 3 that eventually accesses the trail network of the Burlington Landlocked Forest. (Note: trails beyond the Wilson Mill park property are not maintained by the Bedford Trails Committee.)"/>
+                <ITEXT CH="Today the park is accessed via a reconstructed dam/causeway which carries Old Burlington Road over the Vine Brook to a gravel parking area. To the east of the parking area is a slope that leads to a canoe launch, and to the west is a bench with views of the mill foundation remnants. Just beyond the boulders which bound the parking area is a kiosk marking the head of the main blue trail, which roughly follows the northern edge of the mill pond. The blue trail ends at the eastern edge of the park property, where the options are to turn back and return or proceed past the detention basin beyond the park boundary to the embankment of Route 3. Turning left will follow a path parallel to Route 62 back to the parking area; turning right follows a trail parallel to Route 3 that eventually accesses the trail network of the Burlington Landlocked Forest. (Note: trails beyond the Wilson Mill park property are not maintained by the Bedford Trails Committee.)"/>
                 <para PARENT="Default Paragraph Style"/>
                 <ITEXT FONT="Verdana Italic" CH="Parking"/>
                 <ITEXT CH=": Old Burlington Road."/>
@@ -653,6 +729,9 @@
                 <ITEXT CH=": Wildwood Drive, Middlesex Community College overflow parking lot on Springs Road."/>
                 <trail PARENT="Default Paragraph Style"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Trail area information" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="127.0008" YPOS="2367.0144" OwnPage="7" ItemID="1303839479" PTYPE="4" WIDTH="351" HEIGHT="486" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 486 L0 486 L0 0 Z" copath="M0 0 L351 0 L351 486 L0 486 L0 0 Z" gXpos="127.0008" gYpos="1787.0112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1303959287" BACKITEM="763371767"/>
         <PAGEOBJECT XPOS="127.0008" YPOS="2947.0176" OwnPage="9" ItemID="1303964919" PTYPE="4" WIDTH="351" HEIGHT="486" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 486 L0 486 L0 0 Z" copath="M0 0 L351 0 L351 486 L0 486 L0 0 Z" gXpos="127.0008" gYpos="1787.0112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1304030455" BACKITEM="1303959287"/>
@@ -676,29 +755,151 @@
                 <DefaultStyle/>
                 <trail/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="" Type="none" Value="Trail guide index map" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="114.141732283465" YPOS="7568.88188976378" OwnPage="25" ItemID="1304095479" PTYPE="4" WIDTH="29.4803149606299" HEIGHT="39.3070866141734" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L29.4803 0 L29.4803 39.3071 L0 39.3071 L0 0 Z" copath="M0 0 L29.4803 0 L29.4803 39.3071 L0 39.3071 L0 0 Z" gXpos="114.141732283465" gYpos="7568.88188976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="South Bedford regional trails" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="930.51968503937" YPOS="7571.14960629921" OwnPage="26" ItemID="1303934199" PTYPE="4" WIDTH="38.5511811023622" HEIGHT="44.5984251968503" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L38.5512 0 L38.5512 44.5984 L0 44.5984 L0 0 Z" copath="M0 0 L38.5512 0 L38.5512 44.5984 L0 44.5984 L0 0 Z" gXpos="930.51968503937" gYpos="7571.14960629921" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="North Bedford regional trails" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="116.409448818898" YPOS="8153.1968503937" OwnPage="27" ItemID="1303928567" PTYPE="4" WIDTH="29.4803149606299" HEIGHT="40.8495496062997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L29.4803 0 L29.4803 40.8495 L0 40.8495 L0 0 Z" copath="M0 0 L29.4803 0 L29.4803 40.8495 L0 40.8495 L0 0 Z" gXpos="116.409448818898" gYpos="8153.1968503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="West Bedford regional trails" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="586.0008" YPOS="47.0016" OwnPage="0" ItemID="1301085431" PTYPE="4" WIDTH="351" HEIGHT="486" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 486 L0 486 L0 0 Z" copath="M0 0 L351 0 L351 486 L0 486 L0 0 Z" gXpos="586.0008" gYpos="47.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="586.0008" YPOS="74.0016" OwnPage="0" ItemID="1301085431" PTYPE="4" WIDTH="351" HEIGHT="459" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="TableOfContentsTextFrame" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 459 L0 459 L0 0 Z" copath="M0 0 L351 0 L351 459 L0 459 L0 0 Z" gXpos="586.0008" gYpos="74.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <trail/>
+                <ITEXT CH="Open space lands in Bedford"/>
+                <tab/>
+                <ITEXT CH="1"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Trail area information"/>
+                <tab/>
+                <ITEXT CH="5"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="South Bedford regional trails"/>
+                <tab/>
+                <ITEXT CH="24"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="North Bedford regional trails"/>
+                <tab/>
+                <ITEXT CH="25"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="West Bedford regional trails"/>
+                <tab/>
+                <ITEXT CH="26"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Altmann Conservation Area and Pickman Meadow"/>
+                <tab/>
+                <ITEXT CH="27"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Buehler Ponds and Governor Winthrop Conservation Areas"/>
+                <tab/>
+                <ITEXT CH="29"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Carlisle Road Conservation Areas"/>
+                <tab/>
+                <ITEXT CH="30"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Chelmsford Road Conservation Areas"/>
+                <tab/>
+                <ITEXT CH="31"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Clark and Little Meadow Conservation Areas"/>
+                <tab/>
+                <ITEXT CH="32"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Concord Road Town Lands and Massport Area"/>
+                <tab/>
+                <ITEXT CH="33"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Elm Brook Conservation Area"/>
+                <tab/>
+                <ITEXT CH="34"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Fawn Lake Conservation Area"/>
+                <tab/>
+                <ITEXT CH="35"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Hartwell Town Forest / George Jordan Conservation Area"/>
+                <tab/>
+                <ITEXT CH="36"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Huckins Farm Conservation Restriction"/>
+                <tab/>
+                <ITEXT CH="37"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Langone and Pine Grove Farm Conservation Areas"/>
+                <tab/>
+                <ITEXT CH="38"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Lindau Farmland at Pine Hill"/>
+                <tab/>
+                <ITEXT CH="39"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Middlesex Community College"/>
+                <tab/>
+                <ITEXT CH="40"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="O'Connor Conservation Area"/>
+                <tab/>
+                <ITEXT CH="41"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Old Reservoir / Valente Land"/>
+                <tab/>
+                <ITEXT CH="42"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Shawsheen River Conservation Areas"/>
+                <tab/>
+                <ITEXT CH="43"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Springs Brook Conservation Area and Springs Brook Park"/>
+                <tab/>
+                <ITEXT CH="44"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Town Campus"/>
+                <tab/>
+                <ITEXT CH="45"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Wilderness Park Conservation Area"/>
+                <tab/>
+                <ITEXT CH="46"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="Wilson Mill Park"/>
+                <tab/>
+                <ITEXT CH="47"/>
+                <para PARENT="TocEntry"/>
+                <ITEXT CH="York Conservation Area"/>
+                <tab/>
+                <ITEXT CH="48"/>
+                <para PARENT="TocEntry"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="586.0008" YPOS="47.0016" OwnPage="0" ItemID="1300948727" PTYPE="4" WIDTH="351" HEIGHT="27" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 27 L0 27 L0 0 Z" copath="M0 0 L351 0 L351 27 L0 27 L0 0 Z" gXpos="586.0008" gYpos="47.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Contents"/>
+                <trail PARENT="HeadingTopLevel"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
