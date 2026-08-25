@@ -99,29 +99,23 @@
         <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="540" BORDERLEFT="54" BORDERRIGHT="27" BORDERTOP="27" BORDERBOTTOM="27" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="532.0008" PAGEYPOS="20.0016" PAGEWIDTH="432" PAGEHEIGHT="540" BORDERLEFT="54" BORDERRIGHT="27" BORDERTOP="27" BORDERBOTTOM="27" NUM="0" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="600.0048" PAGEWIDTH="432" PAGEHEIGHT="540" BORDERLEFT="54" BORDERRIGHT="27" BORDERTOP="27" BORDERBOTTOM="27" NUM="1" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGEOBJECT XPOS="586.0008" YPOS="47.0016" OwnPage="0" ItemID="1868772703" PTYPE="4" WIDTH="351" HEIGHT="486" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 486 L0 486 L0 0 Z" copath="M0 0 L351 0 L351 486 L0 486 L0 0 Z" gXpos="226.0008" gYpos="10927.0656" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="586.0008" YPOS="47.0016" OwnPage="0" ItemID="1879666662" PTYPE="4" WIDTH="351" HEIGHT="486" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 486 L0 486 L0 0 Z" copath="M0 0 L351 0 L351 486 L0 486 L0 0 Z" gXpos="226.0008" gYpos="10927.0656" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Acknowledgments"/>
                 <para PARENT="Heading1"/>
-                <ITEXT CH="The Trails Committee would like to acknowledge the years of dedicated service by the following individuals who passed away in 2023:"/>
-                <para PARENT="Default Paragraph Style"/>
-                <ITEXT CH="Mark Levine (Trails Committee member 2006 - 2023)"/>
-                <para PARENT="BlockText" LINESP="7" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="• " Numeration="0"/>
-                <ITEXT CH="Hal Ward (Trails Committee member 2008 - 2021)"/>
-                <para PARENT="BlockText" LINESP="7" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="• " Numeration="0"/>
                 <ITEXT CH="Thanks to the following individuals and organizations for their contributions to the Bedford Trail Guide since its inception in 2015: Kristin Marcus, Clem Larson, Mary Mady, Bruce Wisentaner, the Trails Committee, the Conservation Administrator and Conservation Commission, and the Department of Public Works – Engineering / GIS Division. Special thanks to Ralph Hammond for his work to develop the concept of the Bedford Circuit Trail and deep knowledge of the history of Bedford."/>
                 <para PARENT="Default Paragraph Style"/>
                 <ITEXT CH="The Bedford Trail Guide is an excellent resource for all trail users and the Trails Committee hopes to see more friendly faces exploring the Town’s open spaces!"/>
                 <para PARENT="Default Paragraph Style"/>
-                <ITEXT CH="Trails Committee Members (2022-2023): Michael Barbehenn, Tim Brown, John Campos III, Peter Desjardins, Jodie Giordano, Dan Hurwitz, Mark Levine."/>
+                <ITEXT CH="Trails Committee Members (2025-2026): John Campos III, Tim Brown, Peter Desjardins, Dan Hurwitz, Frank Richichi, and Amit Shahar."/>
                 <para PARENT="Default Paragraph Style"/>
-                <ITEXT CH="Cover photo taken at Old Reservoir in August of 2023 by Bedford Public Works."/>
+                <ITEXT CH="Cover photo taken at the Carlson Conservation Area in August of 2026 by Dan Hurwitz."/>
                 <para PARENT="Default Paragraph Style"/>
                 <ITEXT CH="Please note that the Trail Guide is a working document, intended to be updated periodically to accurately reflect the Town’s trail network and be used by many for years to come."/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="163.9008" YPOS="686.4048" OwnPage="1" ItemID="1868225375" PTYPE="2" WIDTH="277.2" HEIGHT="277.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.5" LOCALSCY="0.5" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="public-trail-logo.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L277.2 0 L277.2 277.2 L0 277.2 L0 0 Z" copath="M0 0 L277.2 0 L277.2 277.2 L0 277.2 L0 0 Z" gXpos="163.9008" gYpos="686.4048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="163.9008" YPOS="686.4048" OwnPage="1" ItemID="1879698918" PTYPE="2" WIDTH="277.2" HEIGHT="277.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.5" LOCALSCY="0.5" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="public-trail-logo.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L277.2 0 L277.2 277.2 L0 277.2 L0 0 Z" copath="M0 0 L277.2 0 L277.2 277.2 L0 277.2 L0 0 Z" gXpos="163.9008" gYpos="686.4048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
