@@ -197,14 +197,14 @@
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="14520.0816" PAGEWIDTH="432" PAGEHEIGHT="540" BORDERLEFT="54" BORDERRIGHT="27" BORDERTOP="27" BORDERBOTTOM="27" NUM="49" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <FRAMEOBJECT InID="1268007736" XPOS="0" YPOS="0" OwnPage="-1" ItemID="1996585446" PTYPE="2" WIDTH="143.149606299213" HEIGHT="146.141858267717" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.25" LOCALSCY="0.25" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="public-trail-logo.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L143.15 0 L143.15 146.142 L0 146.142 L0 0 Z" copath="M0 0 L143.15 0 L143.15 146.142 L0 146.142 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="143.149606299213" gHeight="146.141858267717" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <FRAMEOBJECT InID="1799372888" XPOS="0" YPOS="0" OwnPage="-1" ItemID="403248103" PTYPE="2" WIDTH="143.149606299213" HEIGHT="146.141858267717" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.25" LOCALSCY="0.25" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="public-trail-logo.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L143.15 0 L143.15 146.142 L0 146.142 L0 0 Z" copath="M0 0 L143.15 0 L143.15 146.142 L0 146.142 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="143.149606299213" gHeight="146.141858267717" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <MASTEROBJECT XPOS="320.5008" YPOS="536.2416" OwnPage="1" ItemID="403371495" PTYPE="4" WIDTH="18" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" copath="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" OnMasterPage="Normal Right" gXpos="848025104.5008" gYpos="13033171242.9761" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="320.5008" YPOS="536.2416" OwnPage="1" ItemID="403371495" PTYPE="4" WIDTH="18" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" copath="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" OnMasterPage="Normal Right" gXpos="857366312.5008" gYpos="13184218576.3353" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
                 <trail PARENT="PageNumberRecto"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="293.5008" YPOS="536.2416" OwnPage="0" ItemID="403365863" PTYPE="4" WIDTH="18" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" copath="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" OnMasterPage="Normal Left" gXpos="5992133.5008" gYpos="14080999804.0776" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="293.5008" YPOS="536.2416" OwnPage="0" ItemID="403365863" PTYPE="4" WIDTH="18" HEIGHT="14.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" copath="M0 0 L18 0 L18 14.4 L0 14.4 L0 0 Z" OnMasterPage="Normal Left" gXpos="5992133.5008" gYpos="14244130924.1058" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno"/>
@@ -401,7 +401,7 @@
         <PAGEOBJECT XPOS="587.4408" YPOS="11647.0656" OwnPage="40" ItemID="390578663" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="415.44" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Lindau Farmland at Pine Hill, p. 14"/>
+                <ITEXT CH="Lindau Farmland at Pine Hill, p. 15"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
             <PageItemAttributes>
@@ -423,7 +423,7 @@
         <PAGEOBJECT XPOS="587.4408" YPOS="12227.0688" OwnPage="42" ItemID="390567399" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="415.44" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="O'Connor Conservation Area, p. 15"/>
+                <ITEXT CH="O'Connor Conservation Area, p. 16"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
             <PageItemAttributes>
@@ -467,7 +467,7 @@
         <PAGEOBJECT XPOS="128.4408" YPOS="13387.0752" OwnPage="45" ItemID="411330023" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="-475.56" gYpos="-2329.0128" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Springs Brook Conservation Area, p. 17"/>
+                <ITEXT CH="Springs Brook Conservation Area, p. 18"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
             <PageItemAttributes>
@@ -478,7 +478,7 @@
         <PAGEOBJECT XPOS="587.4408" YPOS="13387.0752" OwnPage="46" ItemID="403203559" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="415.44" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Town campus, p. 18"/>
+                <ITEXT CH="Town campus, p. 19"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
             <PageItemAttributes>
@@ -500,7 +500,7 @@
         <PAGEOBJECT XPOS="587.4408" YPOS="13967.0784" OwnPage="48" ItemID="412372967" PTYPE="4" WIDTH="351" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351 0 L351 18 L0 18 L0 0 Z" copath="M0 0 L351 0 L351 18 L0 18 L0 0 Z" gXpos="415.44" gYpos="-2909.016" gWidth="324" gHeight="28.7999999999993" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Wilson Mill Park, p. 19"/>
+                <ITEXT CH="Wilson Mill Park, p. 20"/>
                 <trail PARENT="Heading1"/>
             </StoryText>
             <PageItemAttributes>
